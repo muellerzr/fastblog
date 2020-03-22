@@ -13,6 +13,15 @@
         font-size: 120%;
 }
 
+.post-content p, .post-content li {
+   font-size: 90%;
+   color: #515151;
+}
+
 .post-content pre, .post-content code {
 	background-color: #9581b121;
+}
+
+.post-content code {
+	padding: 0px 1px;
 }
