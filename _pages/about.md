@@ -4,10 +4,11 @@ title: About Me
 permalink: /about/
 ---
 
-This is where you put the contents of your *About* page. Like all your pages, it's in [Markdown](https://guides.github.com/features/mastering-markdown/) format.
+I am currently an undergraduate student at the University of West Florida, with a graduation date of Fall 2022. Afterwards, I plan on going to Graduate School to get my Master's Degree in Data Science
 
-This website is powered by **[fastpages](https://github.com/fastai/fastpages)** [^1].
+At the University I facilitate and teach the Fast.AI classes to Undergraduates and Graduates, with Jeremy's notes being my forefront go-to. Currently, the Practical Deep Learning course is happening, with plans to slowly integrate more to help teach students the benefits of knowing Deep Learning in the modern world.
 
 
+### Contact me
 
-[^1]:a blogging platform that natively supports Jupyter notebooks in addition to other formats.
+[muellerzr@gmail.com](mailto:muellerzr@gmail.com)
