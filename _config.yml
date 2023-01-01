@@ -39,7 +39,8 @@ baseurl: "/fastblog" # the subpath of your site, e.g. "/blog".
 # Github and twitter are optional:
 minima:
   social_links:
-    twitter: TheZachMueller
+    - {platform: github, user_url: "https://github.com/muellerzr"}
+    - {platform: twitter, user_url: "https://twitter.com/TheZachMueller"}
     github: muellerzr
 
 # Set this to true to get LaTeX math equation support
